@@ -9,7 +9,7 @@ Hands-on lab report on deploying and configuring Azure Firewall in Azure.
 
 
 
-AWS Security Lab (Flaws.cloud)
+## ☁️ AWS Security Lab (Flaws.cloud)
 
 Simulated real-world AWS misconfigurations to understand vulnerabilities in S3, IAM, Lambda, and EC2.  
 Explored how attackers exploit weak policies and how to mitigate these issues.
